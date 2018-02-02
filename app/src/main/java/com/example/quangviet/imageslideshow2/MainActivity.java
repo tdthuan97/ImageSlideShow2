@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         p.setText(pos + 1+" of "+ arrContent.size());
         //hello
     }
-//hgj
+//abcde
     private void addControl() {
         btnNext = findViewById(R.id.buttonNext);
         btnPrevious = findViewById(R.id.buttonPrevious);
