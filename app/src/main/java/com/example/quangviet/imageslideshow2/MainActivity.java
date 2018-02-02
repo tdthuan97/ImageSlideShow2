@@ -44,8 +44,9 @@ public class MainActivity extends AppCompatActivity {
         img.setImageResource(arrContent.get(pos).getId());
         desc.setText(arrContent.get(pos).getDesc());
         p.setText(pos + 1+" of "+ arrContent.size());
+        //hello
     }
-
+//hgjhf
     private void addControl() {
         btnNext = findViewById(R.id.buttonNext);
         btnPrevious = findViewById(R.id.buttonPrevious);
